@@ -1,0 +1,23 @@
+{
+  "reportId": "montx-20260508-js1w93",
+  "publicUrl": "https://deck.wantai.ai/montx-20260508-js1w93",
+  "publishedAt": "2026-05-08T08:53:19.985Z",
+  "SocialAssetReport": {
+    "brand": "MONTX"
+  },
+  "translations": {},
+  "period": "",
+  "periodLabel": "",
+  "viewMode": "deck",
+  "deck": {
+    "aspectRatio": "16:9",
+    "width": 1600,
+    "height": 900,
+    "densityRules": {
+      "tableRowsPerPage": 6,
+      "platformCardsPerPage": 2,
+      "commentSamplesPerPage": 4,
+      "comparisonCardsPerPage": 2
+    }
+  }
+}
